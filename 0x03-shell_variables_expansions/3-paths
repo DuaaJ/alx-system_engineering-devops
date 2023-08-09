@@ -1,3 +1,3 @@
 #!/bin/bash
-ls /PATH | wc -l 
+ls $PATH | wc -l 
 
